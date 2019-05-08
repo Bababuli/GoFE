@@ -1,0 +1,41 @@
+.main-block {
+    font-family: Tahoma, Verdana, sans-serif;
+    text-align: center;
+}
+
+.main-block-div {
+    display: inline-block;
+}
+
+.headline-text {
+    text-transform: uppercase;
+}
+
+.avatar {
+    width: 200px;
+    margin-bottom: 20px;
+    border: 1px solid #000;
+}
+
+.place-study,
+.list-block,
+.soc-net {
+    text-align: left;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #808080;
+}
+
+.contacts,
+.feedback {
+    text-align: left;
+}
+
+.feedback-p,
+.contacts-p,
+.soc-net-p {
+    margin-left: 40px;
+}
+
+.soc-net-p {
+    font-style: italic;
+}
