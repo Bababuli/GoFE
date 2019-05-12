@@ -3,7 +3,7 @@
     text-align: center;
 }
 
-.main-block-div {
+.main-block-content {
     display: inline-block;
 }
 
@@ -30,12 +30,12 @@
     text-align: left;
 }
 
-.feedback-p,
-.contacts-p,
-.soc-net-p {
+.feedback-text,
+.contacts-text,
+.soc-net-ref {
     margin-left: 40px;
 }
 
-.soc-net-p {
+.soc-net-ref {
     font-style: italic;
 }
